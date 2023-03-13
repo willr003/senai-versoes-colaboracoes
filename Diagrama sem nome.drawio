@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T21:47:06.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.6" etag="PqPe3jWyUGdoT5GVygpz" type="github"><diagram name="Página-1" id="KixKzHRUQ0QH3yWpuFrL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-13T22:24:53.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ewvFpo5KSfvV2LvBs9kc" version="21.0.6" type="github">
+  <diagram name="Página-1" id="KixKzHRUQ0QH3yWpuFrL">
+    <mxGraphModel dx="880" dy="2814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LtWXNLD-y333BuhR3tki-5" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-1630" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.5" y="-1590" as="sourcePoint" />
+            <mxPoint x="185" y="-1560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="184.5" y="-1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtWXNLD-y333BuhR3tki-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="-1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-7" value="saldo" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="135" y="-1560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-15" value="&quot;Saldo inicial: &quot; +&lt;br&gt;saldo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-1560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LtWXNLD-y333BuhR3tki-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="-1450" as="sourcePoint" />
+            <mxPoint x="240" y="-1430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="-1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-18" value="encerrar&amp;nbsp; = &#39;n&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-1450" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LtWXNLD-y333BuhR3tki-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="-1360" as="sourcePoint" />
+            <mxPoint x="185" y="-1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-20" value="encerrar = &#39;n&#39;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-1390" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LtWXNLD-y333BuhR3tki-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="-1250" as="sourcePoint" />
+            <mxPoint x="185" y="-1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-23" value="tipo de entrada" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="135" y="-1280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LtWXNLD-y333BuhR3tki-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="-1170" as="sourcePoint" />
+            <mxPoint x="185" y="-1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-25" value="quantidade" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="135" y="-1200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LtWXNLD-y333BuhR3tki-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="-1080" as="sourcePoint" />
+            <mxPoint x="185" y="-1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-27" value="tipo de entrada = 1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="-1110" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LtWXNLD-y333BuhR3tki-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="242.5" y="-1005" as="sourcePoint" />
+            <mxPoint x="300" y="-1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-29" value="saldo = saldo + quantidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-1085" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LtWXNLD-y333BuhR3tki-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="-1005" as="sourcePoint" />
+            <mxPoint x="460" y="-1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-31" value="&quot;entrada: &quot; + quantidade" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-1085" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LtWXNLD-y333BuhR3tki-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="-950" as="sourcePoint" />
+            <mxPoint x="185" y="-950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LtWXNLD-y333BuhR3tki-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="-975" as="sourcePoint" />
+            <mxPoint x="200" y="-970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="-970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-34" value="tipo de entrada = 2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-950" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LtWXNLD-y333BuhR3tki-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LtWXNLD-y333BuhR3tki-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="-845" as="sourcePoint" />
+            <mxPoint x="310" y="-895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
